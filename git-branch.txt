@@ -1,0 +1,11 @@
+git branch adalah cabang dari sebuah repo yang berisikan fitur-fitur baru
+
+perintah git branch:
+1.git branch : melihat branch lokal
+2.git branch --all : melihat semua branch lokal dan server
+3.git branch nama_branch : membuat branch baru
+4.git checkout nama_branch : berpindah branch
+5.git branch -d nama_branch : menghapus branch
+
+
+git branch merge adalah pnggabungan antara 2 branch
